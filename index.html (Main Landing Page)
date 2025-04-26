@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Maple Hill Christian Academy</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Maple Hill Christian Academy</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="elementary.html">Elementary</a>
+      <a href="middle.html">Middle School</a>
+      <a href="high.html">High School</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h2>Rooted in Faith. Growing in Excellence.</h2>
+  </section>
+
+  <section class="intro">
+    <p>Welcome to Maple Hill Christian Academy, where faith and academic excellence go hand in hand. Explore our Elementary, Middle, and High School programs!</p>
+    <div class="buttons">
+      <a class="btn" href="elementary.html">Elementary</a>
+      <a class="btn" href="middle.html">Middle School</a>
+      <a class="btn" href="high.html">High School</a>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Maple Hill Christian Academy | Contact Us</p>
+  </footer>
+</body>
+</html>
