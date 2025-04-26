@@ -1,0 +1,7 @@
+/ (root)
+ ├── index.html        (Landing Page)
+ ├── elementary.html   (Elementary Page)
+ ├── middle.html       (Middle School Page)
+ ├── high.html         (High School Page)
+ ├── style.css         (Sitewide Stylesheet)
+ └── /images/          (Optional folder for images)
