@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>High School | Maple Hill Christian Academy</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Maple Hill Christian Academy</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="elementary.html">Elementary</a>
+      <a href="middle.html">Middle School</a>
+      <a href="high.html">High School</a>
+    </nav>
+  </header>
+
+  <section class="page-content">
+    <h2>High School (9-12)</h2>
+    <p>Our high school prepares students for college and life beyond with rigorous academics, dual-credit options, leadership training, and mission trips.</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Maple Hill Christian Academy | Contact Us</p>
+  </footer>
+</body>
+</html>
